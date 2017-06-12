@@ -1,4 +1,4 @@
-=== Plugin Name ===
+==== Plugin Name ===
 Contributors: (this should be a list of wordpress.org userid's)
 Donate link:  http://getposhaq.com/
 Tags: comments, spam
